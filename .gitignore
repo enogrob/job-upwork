@@ -1,0 +1,9 @@
+src/
+Icon*
+.DS_Store
+README.md
+
+# Local PDF tool environment and Python bytecode
+
+.bundle/
+vendor/bundle/
